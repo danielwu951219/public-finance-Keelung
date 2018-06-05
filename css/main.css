@@ -59,8 +59,8 @@
  * # base style overrides
  *
  * ------------------------------------------------------------------- */
- @import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
- 
+ @import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+
 html {
     font-size: 10px;
 }
